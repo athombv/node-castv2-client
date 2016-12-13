@@ -6,7 +6,7 @@
   "license": "MIT",
   "main": "index.js",
   "dependencies": {
-    "castv2": "~0.1.4",
+    "castv2": "git+https://github.com/athombv/node-castv2.git",
     "debug": "^2.2.0"
   },
   "scripts": {
